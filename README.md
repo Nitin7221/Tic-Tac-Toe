@@ -18,7 +18,7 @@ Welcome to the Tic Tac Toe game repository! This project is designed to bring a 
 ## How to Use
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/Nitin7221/tic-tac-toe.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
